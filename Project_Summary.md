@@ -2,9 +2,9 @@
 
 ## Candidate Overview
 
-**Name:** Jasmin Shaik
-**Email:** shaikjasmin100@gmail.com
-**Background:**  
+- **Name:** Jasmin Shaik
+- **Email:** shaikjasmin100@gmail.com
+- **Background:**  
 I'm a Computer Science student passionate about data analysis, data visualization, and storytelling with real-world datasets. I love finding patterns in chaos and turning raw data into insights that inform decisions and spark action.
 
 ---
